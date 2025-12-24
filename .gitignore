@@ -32,6 +32,7 @@ innosetup/config.ini
 coverage.xml
 
 *.sw?
+*.und
 
 pip-wheel-metadata/
 .vscode/
